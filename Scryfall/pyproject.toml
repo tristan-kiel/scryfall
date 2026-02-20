@@ -1,0 +1,6 @@
+[project.scripts]
+scryfall = "scryfall.cli:app"
+
+[project]
+name = "scryfallrandom"
+version = "1.0"
